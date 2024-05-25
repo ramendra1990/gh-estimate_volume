@@ -12,16 +12,16 @@ Note:
 
 Following are some images that you can see for help
 
-# Browse button for binder repository
+### Browse button for binder repository
 ![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_for%20browse%20button.png?raw=true)
 
-# List of files and folders in the binder repo
+### List of files and folders in the binder repo
 ![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_for%20list%20of%20files.png?raw=true)
 
-# Upload button in binder repo
+### Upload button in binder repo
 ![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_for%20upload%20button.png?raw=true)
 
-# List of necessary files uploaded in the binder local repo
+### List of necessary files uploaded in the binder local repo
 ![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_with%20files%20uploaded.png?raw=true)
 
 
