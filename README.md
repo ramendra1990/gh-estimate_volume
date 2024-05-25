@@ -25,6 +25,6 @@ Following are some images that you can see for help
 
 
 
-![Screenshot_for browse button](https://github.com/ramendra1990/gh-estimate_volume/assets/16746585/8e4e89df-e8f6-4917-bb0e-6fd915b6016e)
+![Browse button to see the local repository](https://github.com/ramendra1990/gh-estimate_volume/assets/16746585/8e4e89df-e8f6-4917-bb0e-6fd915b6016e)
 
 
