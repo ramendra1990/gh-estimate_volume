@@ -1,4 +1,24 @@
 # gh-estimate_volume
 Estimate volume from a DEM clipped using a shapefile
 
+The following button can be used to open the executable jupyter notebook through binder, which will preinstall all the required packages to run the scipt.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramendra1990/gh-estimate_volume/main?labpath=estimate_vol_under_shapefile.ipynb)
+
+Note:
+1. After opening the jupyter notebook through binder, you can open the local repository in the left pane in which all the github files will be there along with the notebook
+2. Upload your DEM file (UTM projected) along with the polygons (projected with the same CRS) in the local repo using the upload button at the top
+3. Run each box of codes and check the results for yourself
+4. the estimated volumes will be stored in a csv file, which will appear in the local binder repo. You can see the results directly there by opening it and you can also download the csv file to your local system folders
+
+Following are some in=mages that you can see for help
+Browse button to see the local repository: 
+![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_for browse button.png?raw=true)
+
+List of files in the local repo
+![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_for list of files.png?raw=true)
+
+Upload button in the repo
+![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_for upload button.png?raw=true)
+
+All necessary files uploaded
+![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_with files uploaded.png?raw=true)
