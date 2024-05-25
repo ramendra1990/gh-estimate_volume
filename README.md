@@ -11,14 +11,11 @@ Note:
 4. the estimated volumes will be stored in a csv file, which will appear in the local binder repo. You can see the results directly there by opening it and you can also download the csv file to your local system folders
 
 Following are some in=mages that you can see for help
-Browse button to see the local repository: 
-![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_for browse button.png?raw=true)
+ 
+![Browse button to see the local repository](Screenshot_for browse button.png)
 
-List of files in the local repo
-![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_for list of files.png?raw=true)
+![List of files in the local repo](Screenshot_for list of files.png)
 
-Upload button in the repo
-![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_for upload button.png?raw=true)
+![Upload button in the repo](Screenshot_for upload button.png)
 
-All necessary files uploaded
-![alt text](https://github.com/ramendra1990/gh-estimate_volume/blob/main/Screenshot_with files uploaded.png?raw=true)
+![All necessary files uploaded](Screenshot_with files uploaded.png)
