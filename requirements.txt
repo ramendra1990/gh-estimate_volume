@@ -3,5 +3,5 @@ matplotlib==3.8.4
 geopandas==0.14.4
 pandas==2.2.1
 rioxarray==0.15.5
-skimage==0.23.2
+scikit-image==0.23.2
 watermark==2.4.3
